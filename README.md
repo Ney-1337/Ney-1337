@@ -1,16 +1,19 @@
-### Hi there 👋
+## Bienvenue sur mon profil github. 👋
 
-<!--
-**Ney-1337/Ney-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### ➣ A propos de moi:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏌️‍♀️Je travaille actuellement sur [Visual Studio Code](https://code.visualstudio.com)!
+
+ 
+#### ➣ Mes profiles
+- [" Ney$.#1337](http://discord.com)
+
+
+---
+#### ➣ Mes dernières sortie sur Github
+- [Modules pour faciliter la pub mp](https://github.com/Ney-1337/subra.js)
+- [Discord Selfbot](https://github.com/Ney-1337/AxeSelfbot)
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ney-1337&show_icons=true&hide_border=true" />
