@@ -8,10 +8,11 @@
  
 #### ➣ Mes profiles
 - [" Ney$.#1337](http://discord.com)
+- [nassim_cxx](https://instagram.com/nassim_cxx]
 
 
 ---
-#### ➣ Mes dernières sortie sur Github
+#### ➣ Mes dernières sortie sur Github (Indisponible)
 - [Modules pour faciliter la pub mp](https://github.com/Ney-1337/subra.js)
 - [Discord Selfbot](https://github.com/Ney-1337/AxeSelfbot)
 ---
