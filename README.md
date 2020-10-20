@@ -8,7 +8,6 @@
  
 #### ➣ Mes profiles
 - [" Ney$.#1337](http://discord.com)
-- [nassim_cxx](https://instagram.com/nassim_cxx]
 
 
 ---
